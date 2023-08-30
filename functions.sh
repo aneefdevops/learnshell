@@ -9,3 +9,9 @@ function_name(){
 }
 # call a function
 function_name
+
+
+function_aneef(){
+  echo aneef
+}
+function_aneef

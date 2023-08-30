@@ -11,7 +11,7 @@ function_name(){
 function_name
 
 
-function_aneef(){
-  echo aneef
+function_one(){
+  echo one two one two
 }
-function_aneef
+function_one

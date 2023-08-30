@@ -11,7 +11,4 @@ function_name(){
 function_name
 
 
-function_one(){
-  echo one two one two one
-}
-function_one
+

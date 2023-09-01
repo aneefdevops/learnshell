@@ -1,6 +1,6 @@
-person_name=robo
-age=10
-if [ $person_name == "robo" ]
+fruit_name= mango
+quantity=10
+if [ $fruit_name == "mango" ]
 then
-  echo roboage -$age
+  echo mango quantity -$quantity
   fi
